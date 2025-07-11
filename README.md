@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Mr1Err0r1
-- 👀 I’m interested in Creting something incredibel.
+- 👀 I’m interested in Creating something incredibel.
 - 🌱 I’m currently learning Java, Python, Rust.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
-- 😄 Pronouns: 
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
