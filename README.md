@@ -22,8 +22,9 @@
 <!--START_SECTION:projects-->
 | Project | Description | Language | Updated |
 | :-- | :-- | :-- | :-- |
-| [**rush_protocol**](https://github.com/Mr1Err0r1/rush_protocol) | Game project | Godot 4.7 | — |
-| [**terminal-heart**](https://github.com/Mr1Err0r1/terminal-heart) | Self-contained retro terminal experience for the browser: animations, mini-games and a lo-fi soundtrack | Web | — |
+| [**Keyboard-Clicker**](https://github.com/Mr1Err0r1/Keyboard-Clicker) | This is an Auto-Clicker and Keyboard Presser tool built with Python and Tkinter. It automates mouse clicks (single/double/hold) and keyboard presses with customizable intervals, hotkeys, and position tracking. Ideal for gaming or repetitive tasks. Should work on Windows/Linux. | Rust | 2026-11-05 |
+| [**rush_protocol**](https://github.com/Mr1Err0r1/rush_protocol) | game on Godot Engine 4.7 | GDScript | 2026-08-08 |
+| [**terminal-heart**](https://github.com/Mr1Err0r1/terminal-heart) | — | CSS | 2026-05-22 |
 <!--END_SECTION:projects-->
 
 ## Activity
