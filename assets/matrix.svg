@@ -1,0 +1,800 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="900" height="150" role="img" aria-label="Mr1Err0r1">
+<defs>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05060a"/><stop offset=".25" stop-color="#05060a" stop-opacity="0"/><stop offset=".75" stop-color="#05060a" stop-opacity="0"/><stop offset="1" stop-color="#05060a"/></linearGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:13px;text-anchor:middle}
+.col{animation:fall linear infinite}
+@keyframes fall{from{transform:translateY(-250px)}to{transform:translateY(170px)}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.title{font-size:34px;font-weight:700;letter-spacing:3px;fill:#00ff9c;text-anchor:middle}
+</style>
+<rect width="900" height="150" fill="#05060a"/>
+<g class="col" style="animation-duration:7.21s;animation-delay:-5.73s"><text>
+<tspan x="7.5" y="0" fill="#00ff9c" fill-opacity="0.07">:</tspan>
+<tspan x="7.5" y="15" fill="#00ff9c" fill-opacity="0.14">#</tspan>
+<tspan x="7.5" y="30" fill="#00ff9c" fill-opacity="0.20">=</tspan>
+<tspan x="7.5" y="45" fill="#00ff9c" fill-opacity="0.27">(</tspan>
+<tspan x="7.5" y="60" fill="#00ff9c" fill-opacity="0.34">;</tspan>
+<tspan x="7.5" y="75" fill="#00ff9c" fill-opacity="0.41">{</tspan>
+<tspan x="7.5" y="90" fill="#00ff9c" fill-opacity="0.48">0</tspan>
+<tspan x="7.5" y="105" fill="#00ff9c" fill-opacity="0.55">#</tspan>
+<tspan x="7.5" y="120" fill="#00ff9c" fill-opacity="0.61">E</tspan>
+<tspan x="7.5" y="135" fill="#00ff9c" fill-opacity="0.68">+</tspan>
+<tspan x="7.5" y="150" fill="#d6ffee" fill-opacity="1.00">:</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.74s;animation-delay:-6.08s"><text>
+<tspan x="22.5" y="0" fill="#00ff9c" fill-opacity="0.08">3</tspan>
+<tspan x="22.5" y="15" fill="#00ff9c" fill-opacity="0.15">B</tspan>
+<tspan x="22.5" y="30" fill="#00ff9c" fill-opacity="0.22">F</tspan>
+<tspan x="22.5" y="45" fill="#00ff9c" fill-opacity="0.30">$</tspan>
+<tspan x="22.5" y="60" fill="#00ff9c" fill-opacity="0.38">7</tspan>
+<tspan x="22.5" y="75" fill="#00ff9c" fill-opacity="0.45">C</tspan>
+<tspan x="22.5" y="90" fill="#00ff9c" fill-opacity="0.52">}</tspan>
+<tspan x="22.5" y="105" fill="#00ff9c" fill-opacity="0.60">3</tspan>
+<tspan x="22.5" y="120" fill="#00ff9c" fill-opacity="0.68">[</tspan>
+<tspan x="22.5" y="135" fill="#d6ffee" fill-opacity="1.00">7</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.16s;animation-delay:-2.92s"><text>
+<tspan x="37.5" y="0" fill="#00ff9c" fill-opacity="0.11">5</tspan>
+<tspan x="37.5" y="15" fill="#00ff9c" fill-opacity="0.21">;</tspan>
+<tspan x="37.5" y="30" fill="#00ff9c" fill-opacity="0.32">$</tspan>
+<tspan x="37.5" y="45" fill="#00ff9c" fill-opacity="0.43">+</tspan>
+<tspan x="37.5" y="60" fill="#00ff9c" fill-opacity="0.54">C</tspan>
+<tspan x="37.5" y="75" fill="#00ff9c" fill-opacity="0.64">5</tspan>
+<tspan x="37.5" y="90" fill="#d6ffee" fill-opacity="1.00">+</tspan>
+</text></g>
+<g class="col" style="animation-duration:4.19s;animation-delay:-2.59s"><text>
+<tspan x="52.5" y="0" fill="#00ff9c" fill-opacity="0.09">4</tspan>
+<tspan x="52.5" y="15" fill="#00ff9c" fill-opacity="0.19">4</tspan>
+<tspan x="52.5" y="30" fill="#00ff9c" fill-opacity="0.28">0</tspan>
+<tspan x="52.5" y="45" fill="#00ff9c" fill-opacity="0.38">$</tspan>
+<tspan x="52.5" y="60" fill="#00ff9c" fill-opacity="0.47">0</tspan>
+<tspan x="52.5" y="75" fill="#00ff9c" fill-opacity="0.56">6</tspan>
+<tspan x="52.5" y="90" fill="#00ff9c" fill-opacity="0.66">+</tspan>
+<tspan x="52.5" y="105" fill="#d6ffee" fill-opacity="1.00">6</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.86s;animation-delay:-2.27s"><text>
+<tspan x="67.5" y="0" fill="#00ff9c" fill-opacity="0.08">:</tspan>
+<tspan x="67.5" y="15" fill="#00ff9c" fill-opacity="0.17">6</tspan>
+<tspan x="67.5" y="30" fill="#00ff9c" fill-opacity="0.25">}</tspan>
+<tspan x="67.5" y="45" fill="#00ff9c" fill-opacity="0.33">%</tspan>
+<tspan x="67.5" y="60" fill="#00ff9c" fill-opacity="0.42">)</tspan>
+<tspan x="67.5" y="75" fill="#00ff9c" fill-opacity="0.50">(</tspan>
+<tspan x="67.5" y="90" fill="#00ff9c" fill-opacity="0.58">6</tspan>
+<tspan x="67.5" y="105" fill="#00ff9c" fill-opacity="0.67">5</tspan>
+<tspan x="67.5" y="120" fill="#d6ffee" fill-opacity="1.00">:</tspan>
+</text></g>
+<g class="col" style="animation-duration:8.33s;animation-delay:-7.45s"><text>
+<tspan x="82.5" y="0" fill="#00ff9c" fill-opacity="0.08">9</tspan>
+<tspan x="82.5" y="15" fill="#00ff9c" fill-opacity="0.15">0</tspan>
+<tspan x="82.5" y="30" fill="#00ff9c" fill-opacity="0.22">B</tspan>
+<tspan x="82.5" y="45" fill="#00ff9c" fill-opacity="0.30">D</tspan>
+<tspan x="82.5" y="60" fill="#00ff9c" fill-opacity="0.38">5</tspan>
+<tspan x="82.5" y="75" fill="#00ff9c" fill-opacity="0.45">;</tspan>
+<tspan x="82.5" y="90" fill="#00ff9c" fill-opacity="0.52">4</tspan>
+<tspan x="82.5" y="105" fill="#00ff9c" fill-opacity="0.60">8</tspan>
+<tspan x="82.5" y="120" fill="#00ff9c" fill-opacity="0.68">2</tspan>
+<tspan x="82.5" y="135" fill="#d6ffee" fill-opacity="1.00">A</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.59s;animation-delay:-4.45s"><text>
+<tspan x="97.5" y="0" fill="#00ff9c" fill-opacity="0.07">]</tspan>
+<tspan x="97.5" y="15" fill="#00ff9c" fill-opacity="0.14">)</tspan>
+<tspan x="97.5" y="30" fill="#00ff9c" fill-opacity="0.20">/</tspan>
+<tspan x="97.5" y="45" fill="#00ff9c" fill-opacity="0.27">A</tspan>
+<tspan x="97.5" y="60" fill="#00ff9c" fill-opacity="0.34">2</tspan>
+<tspan x="97.5" y="75" fill="#00ff9c" fill-opacity="0.41">9</tspan>
+<tspan x="97.5" y="90" fill="#00ff9c" fill-opacity="0.48">B</tspan>
+<tspan x="97.5" y="105" fill="#00ff9c" fill-opacity="0.55">#</tspan>
+<tspan x="97.5" y="120" fill="#00ff9c" fill-opacity="0.61">9</tspan>
+<tspan x="97.5" y="135" fill="#00ff9c" fill-opacity="0.68">F</tspan>
+<tspan x="97.5" y="150" fill="#d6ffee" fill-opacity="1.00">/</tspan>
+</text></g>
+<g class="col" style="animation-duration:4.42s;animation-delay:-2.09s"><text>
+<tspan x="112.5" y="0" fill="#00ff9c" fill-opacity="0.06">5</tspan>
+<tspan x="112.5" y="15" fill="#00ff9c" fill-opacity="0.12">1</tspan>
+<tspan x="112.5" y="30" fill="#00ff9c" fill-opacity="0.19">8</tspan>
+<tspan x="112.5" y="45" fill="#00ff9c" fill-opacity="0.25">:</tspan>
+<tspan x="112.5" y="60" fill="#00ff9c" fill-opacity="0.31">0</tspan>
+<tspan x="112.5" y="75" fill="#00ff9c" fill-opacity="0.38">:</tspan>
+<tspan x="112.5" y="90" fill="#00ff9c" fill-opacity="0.44">=</tspan>
+<tspan x="112.5" y="105" fill="#00ff9c" fill-opacity="0.50">B</tspan>
+<tspan x="112.5" y="120" fill="#00ff9c" fill-opacity="0.56">$</tspan>
+<tspan x="112.5" y="135" fill="#00ff9c" fill-opacity="0.62">C</tspan>
+<tspan x="112.5" y="150" fill="#00ff9c" fill-opacity="0.69">0</tspan>
+<tspan x="112.5" y="165" fill="#d6ffee" fill-opacity="1.00">}</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.33s;animation-delay:-3.08s"><text>
+<tspan x="127.5" y="0" fill="#00ff9c" fill-opacity="0.06">0</tspan>
+<tspan x="127.5" y="15" fill="#00ff9c" fill-opacity="0.12">E</tspan>
+<tspan x="127.5" y="30" fill="#00ff9c" fill-opacity="0.17">1</tspan>
+<tspan x="127.5" y="45" fill="#00ff9c" fill-opacity="0.23">/</tspan>
+<tspan x="127.5" y="60" fill="#00ff9c" fill-opacity="0.29">5</tspan>
+<tspan x="127.5" y="75" fill="#00ff9c" fill-opacity="0.35">]</tspan>
+<tspan x="127.5" y="90" fill="#00ff9c" fill-opacity="0.40">:</tspan>
+<tspan x="127.5" y="105" fill="#00ff9c" fill-opacity="0.46">:</tspan>
+<tspan x="127.5" y="120" fill="#00ff9c" fill-opacity="0.52">6</tspan>
+<tspan x="127.5" y="135" fill="#00ff9c" fill-opacity="0.58">3</tspan>
+<tspan x="127.5" y="150" fill="#00ff9c" fill-opacity="0.63">+</tspan>
+<tspan x="127.5" y="165" fill="#00ff9c" fill-opacity="0.69">7</tspan>
+<tspan x="127.5" y="180" fill="#d6ffee" fill-opacity="1.00">;</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.22s;animation-delay:-1.85s"><text>
+<tspan x="142.5" y="0" fill="#00ff9c" fill-opacity="0.05">{</tspan>
+<tspan x="142.5" y="15" fill="#00ff9c" fill-opacity="0.11">8</tspan>
+<tspan x="142.5" y="30" fill="#00ff9c" fill-opacity="0.16">+</tspan>
+<tspan x="142.5" y="45" fill="#00ff9c" fill-opacity="0.21">E</tspan>
+<tspan x="142.5" y="60" fill="#00ff9c" fill-opacity="0.27">3</tspan>
+<tspan x="142.5" y="75" fill="#00ff9c" fill-opacity="0.32">[</tspan>
+<tspan x="142.5" y="90" fill="#00ff9c" fill-opacity="0.38">=</tspan>
+<tspan x="142.5" y="105" fill="#00ff9c" fill-opacity="0.43">+</tspan>
+<tspan x="142.5" y="120" fill="#00ff9c" fill-opacity="0.48">*</tspan>
+<tspan x="142.5" y="135" fill="#00ff9c" fill-opacity="0.54">B</tspan>
+<tspan x="142.5" y="150" fill="#00ff9c" fill-opacity="0.59">$</tspan>
+<tspan x="142.5" y="165" fill="#00ff9c" fill-opacity="0.64">9</tspan>
+<tspan x="142.5" y="180" fill="#00ff9c" fill-opacity="0.70">1</tspan>
+<tspan x="142.5" y="195" fill="#d6ffee" fill-opacity="1.00">D</tspan>
+</text></g>
+<g class="col" style="animation-duration:4.54s;animation-delay:-2.33s"><text>
+<tspan x="157.5" y="0" fill="#00ff9c" fill-opacity="0.09">B</tspan>
+<tspan x="157.5" y="15" fill="#00ff9c" fill-opacity="0.19">;</tspan>
+<tspan x="157.5" y="30" fill="#00ff9c" fill-opacity="0.28">4</tspan>
+<tspan x="157.5" y="45" fill="#00ff9c" fill-opacity="0.38">A</tspan>
+<tspan x="157.5" y="60" fill="#00ff9c" fill-opacity="0.47">8</tspan>
+<tspan x="157.5" y="75" fill="#00ff9c" fill-opacity="0.56">;</tspan>
+<tspan x="157.5" y="90" fill="#00ff9c" fill-opacity="0.66">/</tspan>
+<tspan x="157.5" y="105" fill="#d6ffee" fill-opacity="1.00">}</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.06s;animation-delay:-1.60s"><text>
+<tspan x="172.5" y="0" fill="#00ff9c" fill-opacity="0.09">5</tspan>
+<tspan x="172.5" y="15" fill="#00ff9c" fill-opacity="0.19">*</tspan>
+<tspan x="172.5" y="30" fill="#00ff9c" fill-opacity="0.28">2</tspan>
+<tspan x="172.5" y="45" fill="#00ff9c" fill-opacity="0.38">(</tspan>
+<tspan x="172.5" y="60" fill="#00ff9c" fill-opacity="0.47">4</tspan>
+<tspan x="172.5" y="75" fill="#00ff9c" fill-opacity="0.56">=</tspan>
+<tspan x="172.5" y="90" fill="#00ff9c" fill-opacity="0.66">/</tspan>
+<tspan x="172.5" y="105" fill="#d6ffee" fill-opacity="1.00">9</tspan>
+</text></g>
+<g class="col" style="animation-duration:4.31s;animation-delay:-0.21s"><text>
+<tspan x="187.5" y="0" fill="#00ff9c" fill-opacity="0.05">]</tspan>
+<tspan x="187.5" y="15" fill="#00ff9c" fill-opacity="0.11">}</tspan>
+<tspan x="187.5" y="30" fill="#00ff9c" fill-opacity="0.16">;</tspan>
+<tspan x="187.5" y="45" fill="#00ff9c" fill-opacity="0.21">C</tspan>
+<tspan x="187.5" y="60" fill="#00ff9c" fill-opacity="0.27">1</tspan>
+<tspan x="187.5" y="75" fill="#00ff9c" fill-opacity="0.32">7</tspan>
+<tspan x="187.5" y="90" fill="#00ff9c" fill-opacity="0.38">=</tspan>
+<tspan x="187.5" y="105" fill="#00ff9c" fill-opacity="0.43">]</tspan>
+<tspan x="187.5" y="120" fill="#00ff9c" fill-opacity="0.48">B</tspan>
+<tspan x="187.5" y="135" fill="#00ff9c" fill-opacity="0.54">#</tspan>
+<tspan x="187.5" y="150" fill="#00ff9c" fill-opacity="0.59">8</tspan>
+<tspan x="187.5" y="165" fill="#00ff9c" fill-opacity="0.64">E</tspan>
+<tspan x="187.5" y="180" fill="#00ff9c" fill-opacity="0.70">(</tspan>
+<tspan x="187.5" y="195" fill="#d6ffee" fill-opacity="1.00">D</tspan>
+</text></g>
+<g class="col" style="animation-duration:3.78s;animation-delay:-3.46s"><text>
+<tspan x="202.5" y="0" fill="#00ff9c" fill-opacity="0.08">1</tspan>
+<tspan x="202.5" y="15" fill="#00ff9c" fill-opacity="0.17">*</tspan>
+<tspan x="202.5" y="30" fill="#00ff9c" fill-opacity="0.25">F</tspan>
+<tspan x="202.5" y="45" fill="#00ff9c" fill-opacity="0.33">A</tspan>
+<tspan x="202.5" y="60" fill="#00ff9c" fill-opacity="0.42">#</tspan>
+<tspan x="202.5" y="75" fill="#00ff9c" fill-opacity="0.50">6</tspan>
+<tspan x="202.5" y="90" fill="#00ff9c" fill-opacity="0.58">4</tspan>
+<tspan x="202.5" y="105" fill="#00ff9c" fill-opacity="0.67">=</tspan>
+<tspan x="202.5" y="120" fill="#d6ffee" fill-opacity="1.00">[</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.65s;animation-delay:-5.24s"><text>
+<tspan x="217.5" y="0" fill="#00ff9c" fill-opacity="0.08">3</tspan>
+<tspan x="217.5" y="15" fill="#00ff9c" fill-opacity="0.17">5</tspan>
+<tspan x="217.5" y="30" fill="#00ff9c" fill-opacity="0.25">D</tspan>
+<tspan x="217.5" y="45" fill="#00ff9c" fill-opacity="0.33">B</tspan>
+<tspan x="217.5" y="60" fill="#00ff9c" fill-opacity="0.42">4</tspan>
+<tspan x="217.5" y="75" fill="#00ff9c" fill-opacity="0.50">1</tspan>
+<tspan x="217.5" y="90" fill="#00ff9c" fill-opacity="0.58">$</tspan>
+<tspan x="217.5" y="105" fill="#00ff9c" fill-opacity="0.67">D</tspan>
+<tspan x="217.5" y="120" fill="#d6ffee" fill-opacity="1.00">9</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.77s;animation-delay:-5.76s"><text>
+<tspan x="232.5" y="0" fill="#00ff9c" fill-opacity="0.08">$</tspan>
+<tspan x="232.5" y="15" fill="#00ff9c" fill-opacity="0.17">5</tspan>
+<tspan x="232.5" y="30" fill="#00ff9c" fill-opacity="0.25">{</tspan>
+<tspan x="232.5" y="45" fill="#00ff9c" fill-opacity="0.33">E</tspan>
+<tspan x="232.5" y="60" fill="#00ff9c" fill-opacity="0.42">:</tspan>
+<tspan x="232.5" y="75" fill="#00ff9c" fill-opacity="0.50">F</tspan>
+<tspan x="232.5" y="90" fill="#00ff9c" fill-opacity="0.58">/</tspan>
+<tspan x="232.5" y="105" fill="#00ff9c" fill-opacity="0.67">=</tspan>
+<tspan x="232.5" y="120" fill="#d6ffee" fill-opacity="1.00">A</tspan>
+</text></g>
+<g class="col" style="animation-duration:4.87s;animation-delay:-2.29s"><text>
+<tspan x="247.5" y="0" fill="#00ff9c" fill-opacity="0.05">%</tspan>
+<tspan x="247.5" y="15" fill="#00ff9c" fill-opacity="0.11">4</tspan>
+<tspan x="247.5" y="30" fill="#00ff9c" fill-opacity="0.16">3</tspan>
+<tspan x="247.5" y="45" fill="#00ff9c" fill-opacity="0.21">C</tspan>
+<tspan x="247.5" y="60" fill="#00ff9c" fill-opacity="0.27">#</tspan>
+<tspan x="247.5" y="75" fill="#00ff9c" fill-opacity="0.32">}</tspan>
+<tspan x="247.5" y="90" fill="#00ff9c" fill-opacity="0.38">:</tspan>
+<tspan x="247.5" y="105" fill="#00ff9c" fill-opacity="0.43">5</tspan>
+<tspan x="247.5" y="120" fill="#00ff9c" fill-opacity="0.48">(</tspan>
+<tspan x="247.5" y="135" fill="#00ff9c" fill-opacity="0.54">;</tspan>
+<tspan x="247.5" y="150" fill="#00ff9c" fill-opacity="0.59">F</tspan>
+<tspan x="247.5" y="165" fill="#00ff9c" fill-opacity="0.64">$</tspan>
+<tspan x="247.5" y="180" fill="#00ff9c" fill-opacity="0.70">A</tspan>
+<tspan x="247.5" y="195" fill="#d6ffee" fill-opacity="1.00">5</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.96s;animation-delay:-3.07s"><text>
+<tspan x="262.5" y="0" fill="#00ff9c" fill-opacity="0.09">}</tspan>
+<tspan x="262.5" y="15" fill="#00ff9c" fill-opacity="0.19">$</tspan>
+<tspan x="262.5" y="30" fill="#00ff9c" fill-opacity="0.28">{</tspan>
+<tspan x="262.5" y="45" fill="#00ff9c" fill-opacity="0.38">B</tspan>
+<tspan x="262.5" y="60" fill="#00ff9c" fill-opacity="0.47">2</tspan>
+<tspan x="262.5" y="75" fill="#00ff9c" fill-opacity="0.56">*</tspan>
+<tspan x="262.5" y="90" fill="#00ff9c" fill-opacity="0.66">*</tspan>
+<tspan x="262.5" y="105" fill="#d6ffee" fill-opacity="1.00">+</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.97s;animation-delay:-4.63s"><text>
+<tspan x="277.5" y="0" fill="#00ff9c" fill-opacity="0.06">+</tspan>
+<tspan x="277.5" y="15" fill="#00ff9c" fill-opacity="0.12">9</tspan>
+<tspan x="277.5" y="30" fill="#00ff9c" fill-opacity="0.19">B</tspan>
+<tspan x="277.5" y="45" fill="#00ff9c" fill-opacity="0.25">}</tspan>
+<tspan x="277.5" y="60" fill="#00ff9c" fill-opacity="0.31">/</tspan>
+<tspan x="277.5" y="75" fill="#00ff9c" fill-opacity="0.38">)</tspan>
+<tspan x="277.5" y="90" fill="#00ff9c" fill-opacity="0.44">8</tspan>
+<tspan x="277.5" y="105" fill="#00ff9c" fill-opacity="0.50">#</tspan>
+<tspan x="277.5" y="120" fill="#00ff9c" fill-opacity="0.56">F</tspan>
+<tspan x="277.5" y="135" fill="#00ff9c" fill-opacity="0.62">8</tspan>
+<tspan x="277.5" y="150" fill="#00ff9c" fill-opacity="0.69">+</tspan>
+<tspan x="277.5" y="165" fill="#d6ffee" fill-opacity="1.00">/</tspan>
+</text></g>
+<g class="col" style="animation-duration:8.28s;animation-delay:-2.82s"><text>
+<tspan x="292.5" y="0" fill="#00ff9c" fill-opacity="0.07">5</tspan>
+<tspan x="292.5" y="15" fill="#00ff9c" fill-opacity="0.14">[</tspan>
+<tspan x="292.5" y="30" fill="#00ff9c" fill-opacity="0.20">$</tspan>
+<tspan x="292.5" y="45" fill="#00ff9c" fill-opacity="0.27">0</tspan>
+<tspan x="292.5" y="60" fill="#00ff9c" fill-opacity="0.34">F</tspan>
+<tspan x="292.5" y="75" fill="#00ff9c" fill-opacity="0.41">}</tspan>
+<tspan x="292.5" y="90" fill="#00ff9c" fill-opacity="0.48">+</tspan>
+<tspan x="292.5" y="105" fill="#00ff9c" fill-opacity="0.55">8</tspan>
+<tspan x="292.5" y="120" fill="#00ff9c" fill-opacity="0.61">A</tspan>
+<tspan x="292.5" y="135" fill="#00ff9c" fill-opacity="0.68">)</tspan>
+<tspan x="292.5" y="150" fill="#d6ffee" fill-opacity="1.00">8</tspan>
+</text></g>
+<g class="col" style="animation-duration:4.94s;animation-delay:-2.47s"><text>
+<tspan x="307.5" y="0" fill="#00ff9c" fill-opacity="0.05">)</tspan>
+<tspan x="307.5" y="15" fill="#00ff9c" fill-opacity="0.11">*</tspan>
+<tspan x="307.5" y="30" fill="#00ff9c" fill-opacity="0.16">B</tspan>
+<tspan x="307.5" y="45" fill="#00ff9c" fill-opacity="0.21">B</tspan>
+<tspan x="307.5" y="60" fill="#00ff9c" fill-opacity="0.27">8</tspan>
+<tspan x="307.5" y="75" fill="#00ff9c" fill-opacity="0.32">(</tspan>
+<tspan x="307.5" y="90" fill="#00ff9c" fill-opacity="0.38">B</tspan>
+<tspan x="307.5" y="105" fill="#00ff9c" fill-opacity="0.43">=</tspan>
+<tspan x="307.5" y="120" fill="#00ff9c" fill-opacity="0.48">:</tspan>
+<tspan x="307.5" y="135" fill="#00ff9c" fill-opacity="0.54">#</tspan>
+<tspan x="307.5" y="150" fill="#00ff9c" fill-opacity="0.59">D</tspan>
+<tspan x="307.5" y="165" fill="#00ff9c" fill-opacity="0.64">B</tspan>
+<tspan x="307.5" y="180" fill="#00ff9c" fill-opacity="0.70">;</tspan>
+<tspan x="307.5" y="195" fill="#d6ffee" fill-opacity="1.00">#</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.85s;animation-delay:-5.40s"><text>
+<tspan x="322.5" y="0" fill="#00ff9c" fill-opacity="0.08">B</tspan>
+<tspan x="322.5" y="15" fill="#00ff9c" fill-opacity="0.17">:</tspan>
+<tspan x="322.5" y="30" fill="#00ff9c" fill-opacity="0.25">A</tspan>
+<tspan x="322.5" y="45" fill="#00ff9c" fill-opacity="0.33">{</tspan>
+<tspan x="322.5" y="60" fill="#00ff9c" fill-opacity="0.42">4</tspan>
+<tspan x="322.5" y="75" fill="#00ff9c" fill-opacity="0.50">{</tspan>
+<tspan x="322.5" y="90" fill="#00ff9c" fill-opacity="0.58">5</tspan>
+<tspan x="322.5" y="105" fill="#00ff9c" fill-opacity="0.67">6</tspan>
+<tspan x="322.5" y="120" fill="#d6ffee" fill-opacity="1.00">#</tspan>
+</text></g>
+<g class="col" style="animation-duration:8.19s;animation-delay:-3.91s"><text>
+<tspan x="337.5" y="0" fill="#00ff9c" fill-opacity="0.06">/</tspan>
+<tspan x="337.5" y="15" fill="#00ff9c" fill-opacity="0.12">2</tspan>
+<tspan x="337.5" y="30" fill="#00ff9c" fill-opacity="0.19">=</tspan>
+<tspan x="337.5" y="45" fill="#00ff9c" fill-opacity="0.25">)</tspan>
+<tspan x="337.5" y="60" fill="#00ff9c" fill-opacity="0.31">=</tspan>
+<tspan x="337.5" y="75" fill="#00ff9c" fill-opacity="0.38">D</tspan>
+<tspan x="337.5" y="90" fill="#00ff9c" fill-opacity="0.44">5</tspan>
+<tspan x="337.5" y="105" fill="#00ff9c" fill-opacity="0.50">]</tspan>
+<tspan x="337.5" y="120" fill="#00ff9c" fill-opacity="0.56">+</tspan>
+<tspan x="337.5" y="135" fill="#00ff9c" fill-opacity="0.62">;</tspan>
+<tspan x="337.5" y="150" fill="#00ff9c" fill-opacity="0.69">[</tspan>
+<tspan x="337.5" y="165" fill="#d6ffee" fill-opacity="1.00">{</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.01s;animation-delay:-2.77s"><text>
+<tspan x="352.5" y="0" fill="#00ff9c" fill-opacity="0.06">$</tspan>
+<tspan x="352.5" y="15" fill="#00ff9c" fill-opacity="0.12">(</tspan>
+<tspan x="352.5" y="30" fill="#00ff9c" fill-opacity="0.17">8</tspan>
+<tspan x="352.5" y="45" fill="#00ff9c" fill-opacity="0.23">=</tspan>
+<tspan x="352.5" y="60" fill="#00ff9c" fill-opacity="0.29">0</tspan>
+<tspan x="352.5" y="75" fill="#00ff9c" fill-opacity="0.35">6</tspan>
+<tspan x="352.5" y="90" fill="#00ff9c" fill-opacity="0.40">5</tspan>
+<tspan x="352.5" y="105" fill="#00ff9c" fill-opacity="0.46">[</tspan>
+<tspan x="352.5" y="120" fill="#00ff9c" fill-opacity="0.52">E</tspan>
+<tspan x="352.5" y="135" fill="#00ff9c" fill-opacity="0.58">]</tspan>
+<tspan x="352.5" y="150" fill="#00ff9c" fill-opacity="0.63">(</tspan>
+<tspan x="352.5" y="165" fill="#00ff9c" fill-opacity="0.69">5</tspan>
+<tspan x="352.5" y="180" fill="#d6ffee" fill-opacity="1.00">7</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.65s;animation-delay:-0.28s"><text>
+<tspan x="367.5" y="0" fill="#00ff9c" fill-opacity="0.08">F</tspan>
+<tspan x="367.5" y="15" fill="#00ff9c" fill-opacity="0.17">7</tspan>
+<tspan x="367.5" y="30" fill="#00ff9c" fill-opacity="0.25">5</tspan>
+<tspan x="367.5" y="45" fill="#00ff9c" fill-opacity="0.33">1</tspan>
+<tspan x="367.5" y="60" fill="#00ff9c" fill-opacity="0.42">%</tspan>
+<tspan x="367.5" y="75" fill="#00ff9c" fill-opacity="0.50">4</tspan>
+<tspan x="367.5" y="90" fill="#00ff9c" fill-opacity="0.58">3</tspan>
+<tspan x="367.5" y="105" fill="#00ff9c" fill-opacity="0.67">A</tspan>
+<tspan x="367.5" y="120" fill="#d6ffee" fill-opacity="1.00">:</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.91s;animation-delay:-3.24s"><text>
+<tspan x="382.5" y="0" fill="#00ff9c" fill-opacity="0.08">D</tspan>
+<tspan x="382.5" y="15" fill="#00ff9c" fill-opacity="0.17">E</tspan>
+<tspan x="382.5" y="30" fill="#00ff9c" fill-opacity="0.25">B</tspan>
+<tspan x="382.5" y="45" fill="#00ff9c" fill-opacity="0.33">C</tspan>
+<tspan x="382.5" y="60" fill="#00ff9c" fill-opacity="0.42">)</tspan>
+<tspan x="382.5" y="75" fill="#00ff9c" fill-opacity="0.50">]</tspan>
+<tspan x="382.5" y="90" fill="#00ff9c" fill-opacity="0.58">2</tspan>
+<tspan x="382.5" y="105" fill="#00ff9c" fill-opacity="0.67">[</tspan>
+<tspan x="382.5" y="120" fill="#d6ffee" fill-opacity="1.00">6</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.09s;animation-delay:-2.65s"><text>
+<tspan x="397.5" y="0" fill="#00ff9c" fill-opacity="0.08">B</tspan>
+<tspan x="397.5" y="15" fill="#00ff9c" fill-opacity="0.15">C</tspan>
+<tspan x="397.5" y="30" fill="#00ff9c" fill-opacity="0.22">:</tspan>
+<tspan x="397.5" y="45" fill="#00ff9c" fill-opacity="0.30">8</tspan>
+<tspan x="397.5" y="60" fill="#00ff9c" fill-opacity="0.38">$</tspan>
+<tspan x="397.5" y="75" fill="#00ff9c" fill-opacity="0.45">D</tspan>
+<tspan x="397.5" y="90" fill="#00ff9c" fill-opacity="0.52">$</tspan>
+<tspan x="397.5" y="105" fill="#00ff9c" fill-opacity="0.60">3</tspan>
+<tspan x="397.5" y="120" fill="#00ff9c" fill-opacity="0.68">/</tspan>
+<tspan x="397.5" y="135" fill="#d6ffee" fill-opacity="1.00">#</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.37s;animation-delay:-0.19s"><text>
+<tspan x="412.5" y="0" fill="#00ff9c" fill-opacity="0.05">]</tspan>
+<tspan x="412.5" y="15" fill="#00ff9c" fill-opacity="0.10">9</tspan>
+<tspan x="412.5" y="30" fill="#00ff9c" fill-opacity="0.15">3</tspan>
+<tspan x="412.5" y="45" fill="#00ff9c" fill-opacity="0.20">9</tspan>
+<tspan x="412.5" y="60" fill="#00ff9c" fill-opacity="0.25">}</tspan>
+<tspan x="412.5" y="75" fill="#00ff9c" fill-opacity="0.30">{</tspan>
+<tspan x="412.5" y="90" fill="#00ff9c" fill-opacity="0.35">A</tspan>
+<tspan x="412.5" y="105" fill="#00ff9c" fill-opacity="0.40">:</tspan>
+<tspan x="412.5" y="120" fill="#00ff9c" fill-opacity="0.45">[</tspan>
+<tspan x="412.5" y="135" fill="#00ff9c" fill-opacity="0.50">9</tspan>
+<tspan x="412.5" y="150" fill="#00ff9c" fill-opacity="0.55">:</tspan>
+<tspan x="412.5" y="165" fill="#00ff9c" fill-opacity="0.60">B</tspan>
+<tspan x="412.5" y="180" fill="#00ff9c" fill-opacity="0.65">#</tspan>
+<tspan x="412.5" y="195" fill="#00ff9c" fill-opacity="0.70">4</tspan>
+<tspan x="412.5" y="210" fill="#d6ffee" fill-opacity="1.00">D</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.56s;animation-delay:-4.86s"><text>
+<tspan x="427.5" y="0" fill="#00ff9c" fill-opacity="0.06">B</tspan>
+<tspan x="427.5" y="15" fill="#00ff9c" fill-opacity="0.12">E</tspan>
+<tspan x="427.5" y="30" fill="#00ff9c" fill-opacity="0.17">4</tspan>
+<tspan x="427.5" y="45" fill="#00ff9c" fill-opacity="0.23">5</tspan>
+<tspan x="427.5" y="60" fill="#00ff9c" fill-opacity="0.29">]</tspan>
+<tspan x="427.5" y="75" fill="#00ff9c" fill-opacity="0.35">C</tspan>
+<tspan x="427.5" y="90" fill="#00ff9c" fill-opacity="0.40">[</tspan>
+<tspan x="427.5" y="105" fill="#00ff9c" fill-opacity="0.46">F</tspan>
+<tspan x="427.5" y="120" fill="#00ff9c" fill-opacity="0.52">:</tspan>
+<tspan x="427.5" y="135" fill="#00ff9c" fill-opacity="0.58">6</tspan>
+<tspan x="427.5" y="150" fill="#00ff9c" fill-opacity="0.63">:</tspan>
+<tspan x="427.5" y="165" fill="#00ff9c" fill-opacity="0.69">4</tspan>
+<tspan x="427.5" y="180" fill="#d6ffee" fill-opacity="1.00">]</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.26s;animation-delay:-4.70s"><text>
+<tspan x="442.5" y="0" fill="#00ff9c" fill-opacity="0.09">0</tspan>
+<tspan x="442.5" y="15" fill="#00ff9c" fill-opacity="0.19">C</tspan>
+<tspan x="442.5" y="30" fill="#00ff9c" fill-opacity="0.28">3</tspan>
+<tspan x="442.5" y="45" fill="#00ff9c" fill-opacity="0.38">A</tspan>
+<tspan x="442.5" y="60" fill="#00ff9c" fill-opacity="0.47">[</tspan>
+<tspan x="442.5" y="75" fill="#00ff9c" fill-opacity="0.56">;</tspan>
+<tspan x="442.5" y="90" fill="#00ff9c" fill-opacity="0.66">]</tspan>
+<tspan x="442.5" y="105" fill="#d6ffee" fill-opacity="1.00">}</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.13s;animation-delay:-4.49s"><text>
+<tspan x="457.5" y="0" fill="#00ff9c" fill-opacity="0.08">[</tspan>
+<tspan x="457.5" y="15" fill="#00ff9c" fill-opacity="0.17">C</tspan>
+<tspan x="457.5" y="30" fill="#00ff9c" fill-opacity="0.25">D</tspan>
+<tspan x="457.5" y="45" fill="#00ff9c" fill-opacity="0.33">D</tspan>
+<tspan x="457.5" y="60" fill="#00ff9c" fill-opacity="0.42">7</tspan>
+<tspan x="457.5" y="75" fill="#00ff9c" fill-opacity="0.50">F</tspan>
+<tspan x="457.5" y="90" fill="#00ff9c" fill-opacity="0.58">9</tspan>
+<tspan x="457.5" y="105" fill="#00ff9c" fill-opacity="0.67">F</tspan>
+<tspan x="457.5" y="120" fill="#d6ffee" fill-opacity="1.00">/</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.42s;animation-delay:-4.63s"><text>
+<tspan x="472.5" y="0" fill="#00ff9c" fill-opacity="0.06">5</tspan>
+<tspan x="472.5" y="15" fill="#00ff9c" fill-opacity="0.12">]</tspan>
+<tspan x="472.5" y="30" fill="#00ff9c" fill-opacity="0.17">]</tspan>
+<tspan x="472.5" y="45" fill="#00ff9c" fill-opacity="0.23">8</tspan>
+<tspan x="472.5" y="60" fill="#00ff9c" fill-opacity="0.29">=</tspan>
+<tspan x="472.5" y="75" fill="#00ff9c" fill-opacity="0.35">9</tspan>
+<tspan x="472.5" y="90" fill="#00ff9c" fill-opacity="0.40">F</tspan>
+<tspan x="472.5" y="105" fill="#00ff9c" fill-opacity="0.46">8</tspan>
+<tspan x="472.5" y="120" fill="#00ff9c" fill-opacity="0.52">D</tspan>
+<tspan x="472.5" y="135" fill="#00ff9c" fill-opacity="0.58">0</tspan>
+<tspan x="472.5" y="150" fill="#00ff9c" fill-opacity="0.63">A</tspan>
+<tspan x="472.5" y="165" fill="#00ff9c" fill-opacity="0.69">:</tspan>
+<tspan x="472.5" y="180" fill="#d6ffee" fill-opacity="1.00">9</tspan>
+</text></g>
+<g class="col" style="animation-duration:8.15s;animation-delay:-1.17s"><text>
+<tspan x="487.5" y="0" fill="#00ff9c" fill-opacity="0.05">0</tspan>
+<tspan x="487.5" y="15" fill="#00ff9c" fill-opacity="0.11">3</tspan>
+<tspan x="487.5" y="30" fill="#00ff9c" fill-opacity="0.16">)</tspan>
+<tspan x="487.5" y="45" fill="#00ff9c" fill-opacity="0.21">]</tspan>
+<tspan x="487.5" y="60" fill="#00ff9c" fill-opacity="0.27">:</tspan>
+<tspan x="487.5" y="75" fill="#00ff9c" fill-opacity="0.32">E</tspan>
+<tspan x="487.5" y="90" fill="#00ff9c" fill-opacity="0.38">7</tspan>
+<tspan x="487.5" y="105" fill="#00ff9c" fill-opacity="0.43">9</tspan>
+<tspan x="487.5" y="120" fill="#00ff9c" fill-opacity="0.48">1</tspan>
+<tspan x="487.5" y="135" fill="#00ff9c" fill-opacity="0.54">*</tspan>
+<tspan x="487.5" y="150" fill="#00ff9c" fill-opacity="0.59">4</tspan>
+<tspan x="487.5" y="165" fill="#00ff9c" fill-opacity="0.64">#</tspan>
+<tspan x="487.5" y="180" fill="#00ff9c" fill-opacity="0.70">C</tspan>
+<tspan x="487.5" y="195" fill="#d6ffee" fill-opacity="1.00">0</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.16s;animation-delay:-1.69s"><text>
+<tspan x="502.5" y="0" fill="#00ff9c" fill-opacity="0.05">;</tspan>
+<tspan x="502.5" y="15" fill="#00ff9c" fill-opacity="0.11">F</tspan>
+<tspan x="502.5" y="30" fill="#00ff9c" fill-opacity="0.16">*</tspan>
+<tspan x="502.5" y="45" fill="#00ff9c" fill-opacity="0.21">1</tspan>
+<tspan x="502.5" y="60" fill="#00ff9c" fill-opacity="0.27">7</tspan>
+<tspan x="502.5" y="75" fill="#00ff9c" fill-opacity="0.32">F</tspan>
+<tspan x="502.5" y="90" fill="#00ff9c" fill-opacity="0.38">8</tspan>
+<tspan x="502.5" y="105" fill="#00ff9c" fill-opacity="0.43">$</tspan>
+<tspan x="502.5" y="120" fill="#00ff9c" fill-opacity="0.48">4</tspan>
+<tspan x="502.5" y="135" fill="#00ff9c" fill-opacity="0.54">=</tspan>
+<tspan x="502.5" y="150" fill="#00ff9c" fill-opacity="0.59">9</tspan>
+<tspan x="502.5" y="165" fill="#00ff9c" fill-opacity="0.64">9</tspan>
+<tspan x="502.5" y="180" fill="#00ff9c" fill-opacity="0.70">F</tspan>
+<tspan x="502.5" y="195" fill="#d6ffee" fill-opacity="1.00">]</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.09s;animation-delay:-5.26s"><text>
+<tspan x="517.5" y="0" fill="#00ff9c" fill-opacity="0.05">%</tspan>
+<tspan x="517.5" y="15" fill="#00ff9c" fill-opacity="0.11">=</tspan>
+<tspan x="517.5" y="30" fill="#00ff9c" fill-opacity="0.16">%</tspan>
+<tspan x="517.5" y="45" fill="#00ff9c" fill-opacity="0.21">3</tspan>
+<tspan x="517.5" y="60" fill="#00ff9c" fill-opacity="0.27">0</tspan>
+<tspan x="517.5" y="75" fill="#00ff9c" fill-opacity="0.32">+</tspan>
+<tspan x="517.5" y="90" fill="#00ff9c" fill-opacity="0.38">4</tspan>
+<tspan x="517.5" y="105" fill="#00ff9c" fill-opacity="0.43">9</tspan>
+<tspan x="517.5" y="120" fill="#00ff9c" fill-opacity="0.48">9</tspan>
+<tspan x="517.5" y="135" fill="#00ff9c" fill-opacity="0.54">}</tspan>
+<tspan x="517.5" y="150" fill="#00ff9c" fill-opacity="0.59">/</tspan>
+<tspan x="517.5" y="165" fill="#00ff9c" fill-opacity="0.64">A</tspan>
+<tspan x="517.5" y="180" fill="#00ff9c" fill-opacity="0.70">]</tspan>
+<tspan x="517.5" y="195" fill="#d6ffee" fill-opacity="1.00">9</tspan>
+</text></g>
+<g class="col" style="animation-duration:3.63s;animation-delay:-1.27s"><text>
+<tspan x="532.5" y="0" fill="#00ff9c" fill-opacity="0.05">)</tspan>
+<tspan x="532.5" y="15" fill="#00ff9c" fill-opacity="0.10">=</tspan>
+<tspan x="532.5" y="30" fill="#00ff9c" fill-opacity="0.15">#</tspan>
+<tspan x="532.5" y="45" fill="#00ff9c" fill-opacity="0.20">[</tspan>
+<tspan x="532.5" y="60" fill="#00ff9c" fill-opacity="0.25">4</tspan>
+<tspan x="532.5" y="75" fill="#00ff9c" fill-opacity="0.30">1</tspan>
+<tspan x="532.5" y="90" fill="#00ff9c" fill-opacity="0.35">0</tspan>
+<tspan x="532.5" y="105" fill="#00ff9c" fill-opacity="0.40">8</tspan>
+<tspan x="532.5" y="120" fill="#00ff9c" fill-opacity="0.45">}</tspan>
+<tspan x="532.5" y="135" fill="#00ff9c" fill-opacity="0.50">E</tspan>
+<tspan x="532.5" y="150" fill="#00ff9c" fill-opacity="0.55">)</tspan>
+<tspan x="532.5" y="165" fill="#00ff9c" fill-opacity="0.60">;</tspan>
+<tspan x="532.5" y="180" fill="#00ff9c" fill-opacity="0.65">3</tspan>
+<tspan x="532.5" y="195" fill="#00ff9c" fill-opacity="0.70">%</tspan>
+<tspan x="532.5" y="210" fill="#d6ffee" fill-opacity="1.00">)</tspan>
+</text></g>
+<g class="col" style="animation-duration:4.46s;animation-delay:-1.91s"><text>
+<tspan x="547.5" y="0" fill="#00ff9c" fill-opacity="0.05">*</tspan>
+<tspan x="547.5" y="15" fill="#00ff9c" fill-opacity="0.10">D</tspan>
+<tspan x="547.5" y="30" fill="#00ff9c" fill-opacity="0.15">]</tspan>
+<tspan x="547.5" y="45" fill="#00ff9c" fill-opacity="0.20">[</tspan>
+<tspan x="547.5" y="60" fill="#00ff9c" fill-opacity="0.25">/</tspan>
+<tspan x="547.5" y="75" fill="#00ff9c" fill-opacity="0.30">/</tspan>
+<tspan x="547.5" y="90" fill="#00ff9c" fill-opacity="0.35">:</tspan>
+<tspan x="547.5" y="105" fill="#00ff9c" fill-opacity="0.40">(</tspan>
+<tspan x="547.5" y="120" fill="#00ff9c" fill-opacity="0.45">(</tspan>
+<tspan x="547.5" y="135" fill="#00ff9c" fill-opacity="0.50">F</tspan>
+<tspan x="547.5" y="150" fill="#00ff9c" fill-opacity="0.55">$</tspan>
+<tspan x="547.5" y="165" fill="#00ff9c" fill-opacity="0.60">;</tspan>
+<tspan x="547.5" y="180" fill="#00ff9c" fill-opacity="0.65">#</tspan>
+<tspan x="547.5" y="195" fill="#00ff9c" fill-opacity="0.70">C</tspan>
+<tspan x="547.5" y="210" fill="#d6ffee" fill-opacity="1.00">F</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.91s;animation-delay:-4.97s"><text>
+<tspan x="562.5" y="0" fill="#00ff9c" fill-opacity="0.06">%</tspan>
+<tspan x="562.5" y="15" fill="#00ff9c" fill-opacity="0.12">9</tspan>
+<tspan x="562.5" y="30" fill="#00ff9c" fill-opacity="0.17">E</tspan>
+<tspan x="562.5" y="45" fill="#00ff9c" fill-opacity="0.23">#</tspan>
+<tspan x="562.5" y="60" fill="#00ff9c" fill-opacity="0.29">+</tspan>
+<tspan x="562.5" y="75" fill="#00ff9c" fill-opacity="0.35">2</tspan>
+<tspan x="562.5" y="90" fill="#00ff9c" fill-opacity="0.40">9</tspan>
+<tspan x="562.5" y="105" fill="#00ff9c" fill-opacity="0.46">#</tspan>
+<tspan x="562.5" y="120" fill="#00ff9c" fill-opacity="0.52">0</tspan>
+<tspan x="562.5" y="135" fill="#00ff9c" fill-opacity="0.58">/</tspan>
+<tspan x="562.5" y="150" fill="#00ff9c" fill-opacity="0.63">+</tspan>
+<tspan x="562.5" y="165" fill="#00ff9c" fill-opacity="0.69">D</tspan>
+<tspan x="562.5" y="180" fill="#d6ffee" fill-opacity="1.00">[</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.74s;animation-delay:-3.19s"><text>
+<tspan x="577.5" y="0" fill="#00ff9c" fill-opacity="0.07">9</tspan>
+<tspan x="577.5" y="15" fill="#00ff9c" fill-opacity="0.14">4</tspan>
+<tspan x="577.5" y="30" fill="#00ff9c" fill-opacity="0.20">5</tspan>
+<tspan x="577.5" y="45" fill="#00ff9c" fill-opacity="0.27">F</tspan>
+<tspan x="577.5" y="60" fill="#00ff9c" fill-opacity="0.34">/</tspan>
+<tspan x="577.5" y="75" fill="#00ff9c" fill-opacity="0.41">}</tspan>
+<tspan x="577.5" y="90" fill="#00ff9c" fill-opacity="0.48">%</tspan>
+<tspan x="577.5" y="105" fill="#00ff9c" fill-opacity="0.55">F</tspan>
+<tspan x="577.5" y="120" fill="#00ff9c" fill-opacity="0.61">A</tspan>
+<tspan x="577.5" y="135" fill="#00ff9c" fill-opacity="0.68">}</tspan>
+<tspan x="577.5" y="150" fill="#d6ffee" fill-opacity="1.00">4</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.43s;animation-delay:-5.22s"><text>
+<tspan x="592.5" y="0" fill="#00ff9c" fill-opacity="0.06">2</tspan>
+<tspan x="592.5" y="15" fill="#00ff9c" fill-opacity="0.12">=</tspan>
+<tspan x="592.5" y="30" fill="#00ff9c" fill-opacity="0.17">7</tspan>
+<tspan x="592.5" y="45" fill="#00ff9c" fill-opacity="0.23">8</tspan>
+<tspan x="592.5" y="60" fill="#00ff9c" fill-opacity="0.29">#</tspan>
+<tspan x="592.5" y="75" fill="#00ff9c" fill-opacity="0.35">2</tspan>
+<tspan x="592.5" y="90" fill="#00ff9c" fill-opacity="0.40">*</tspan>
+<tspan x="592.5" y="105" fill="#00ff9c" fill-opacity="0.46">2</tspan>
+<tspan x="592.5" y="120" fill="#00ff9c" fill-opacity="0.52">)</tspan>
+<tspan x="592.5" y="135" fill="#00ff9c" fill-opacity="0.58">:</tspan>
+<tspan x="592.5" y="150" fill="#00ff9c" fill-opacity="0.63">0</tspan>
+<tspan x="592.5" y="165" fill="#00ff9c" fill-opacity="0.69">A</tspan>
+<tspan x="592.5" y="180" fill="#d6ffee" fill-opacity="1.00">=</tspan>
+</text></g>
+<g class="col" style="animation-duration:8.39s;animation-delay:-8.38s"><text>
+<tspan x="607.5" y="0" fill="#00ff9c" fill-opacity="0.06">/</tspan>
+<tspan x="607.5" y="15" fill="#00ff9c" fill-opacity="0.12">F</tspan>
+<tspan x="607.5" y="30" fill="#00ff9c" fill-opacity="0.17">1</tspan>
+<tspan x="607.5" y="45" fill="#00ff9c" fill-opacity="0.23">3</tspan>
+<tspan x="607.5" y="60" fill="#00ff9c" fill-opacity="0.29">#</tspan>
+<tspan x="607.5" y="75" fill="#00ff9c" fill-opacity="0.35">3</tspan>
+<tspan x="607.5" y="90" fill="#00ff9c" fill-opacity="0.40">7</tspan>
+<tspan x="607.5" y="105" fill="#00ff9c" fill-opacity="0.46">]</tspan>
+<tspan x="607.5" y="120" fill="#00ff9c" fill-opacity="0.52">(</tspan>
+<tspan x="607.5" y="135" fill="#00ff9c" fill-opacity="0.58">#</tspan>
+<tspan x="607.5" y="150" fill="#00ff9c" fill-opacity="0.63">:</tspan>
+<tspan x="607.5" y="165" fill="#00ff9c" fill-opacity="0.69">3</tspan>
+<tspan x="607.5" y="180" fill="#d6ffee" fill-opacity="1.00">/</tspan>
+</text></g>
+<g class="col" style="animation-duration:8.47s;animation-delay:-5.98s"><text>
+<tspan x="622.5" y="0" fill="#00ff9c" fill-opacity="0.08">E</tspan>
+<tspan x="622.5" y="15" fill="#00ff9c" fill-opacity="0.17">4</tspan>
+<tspan x="622.5" y="30" fill="#00ff9c" fill-opacity="0.25">5</tspan>
+<tspan x="622.5" y="45" fill="#00ff9c" fill-opacity="0.33">]</tspan>
+<tspan x="622.5" y="60" fill="#00ff9c" fill-opacity="0.42">5</tspan>
+<tspan x="622.5" y="75" fill="#00ff9c" fill-opacity="0.50">D</tspan>
+<tspan x="622.5" y="90" fill="#00ff9c" fill-opacity="0.58">*</tspan>
+<tspan x="622.5" y="105" fill="#00ff9c" fill-opacity="0.67">5</tspan>
+<tspan x="622.5" y="120" fill="#d6ffee" fill-opacity="1.00">2</tspan>
+</text></g>
+<g class="col" style="animation-duration:3.72s;animation-delay:-0.40s"><text>
+<tspan x="637.5" y="0" fill="#00ff9c" fill-opacity="0.08">C</tspan>
+<tspan x="637.5" y="15" fill="#00ff9c" fill-opacity="0.15">=</tspan>
+<tspan x="637.5" y="30" fill="#00ff9c" fill-opacity="0.22">2</tspan>
+<tspan x="637.5" y="45" fill="#00ff9c" fill-opacity="0.30">8</tspan>
+<tspan x="637.5" y="60" fill="#00ff9c" fill-opacity="0.38">1</tspan>
+<tspan x="637.5" y="75" fill="#00ff9c" fill-opacity="0.45">[</tspan>
+<tspan x="637.5" y="90" fill="#00ff9c" fill-opacity="0.52">[</tspan>
+<tspan x="637.5" y="105" fill="#00ff9c" fill-opacity="0.60">3</tspan>
+<tspan x="637.5" y="120" fill="#00ff9c" fill-opacity="0.68">=</tspan>
+<tspan x="637.5" y="135" fill="#d6ffee" fill-opacity="1.00">C</tspan>
+</text></g>
+<g class="col" style="animation-duration:3.55s;animation-delay:-0.32s"><text>
+<tspan x="652.5" y="0" fill="#00ff9c" fill-opacity="0.08">)</tspan>
+<tspan x="652.5" y="15" fill="#00ff9c" fill-opacity="0.17">]</tspan>
+<tspan x="652.5" y="30" fill="#00ff9c" fill-opacity="0.25">F</tspan>
+<tspan x="652.5" y="45" fill="#00ff9c" fill-opacity="0.33">F</tspan>
+<tspan x="652.5" y="60" fill="#00ff9c" fill-opacity="0.42">B</tspan>
+<tspan x="652.5" y="75" fill="#00ff9c" fill-opacity="0.50">:</tspan>
+<tspan x="652.5" y="90" fill="#00ff9c" fill-opacity="0.58">(</tspan>
+<tspan x="652.5" y="105" fill="#00ff9c" fill-opacity="0.67">B</tspan>
+<tspan x="652.5" y="120" fill="#d6ffee" fill-opacity="1.00">;</tspan>
+</text></g>
+<g class="col" style="animation-duration:4.19s;animation-delay:-1.24s"><text>
+<tspan x="667.5" y="0" fill="#00ff9c" fill-opacity="0.11">[</tspan>
+<tspan x="667.5" y="15" fill="#00ff9c" fill-opacity="0.21">(</tspan>
+<tspan x="667.5" y="30" fill="#00ff9c" fill-opacity="0.32">)</tspan>
+<tspan x="667.5" y="45" fill="#00ff9c" fill-opacity="0.43">{</tspan>
+<tspan x="667.5" y="60" fill="#00ff9c" fill-opacity="0.54">9</tspan>
+<tspan x="667.5" y="75" fill="#00ff9c" fill-opacity="0.64">;</tspan>
+<tspan x="667.5" y="90" fill="#d6ffee" fill-opacity="1.00">:</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.25s;animation-delay:-1.38s"><text>
+<tspan x="682.5" y="0" fill="#00ff9c" fill-opacity="0.05">2</tspan>
+<tspan x="682.5" y="15" fill="#00ff9c" fill-opacity="0.10">}</tspan>
+<tspan x="682.5" y="30" fill="#00ff9c" fill-opacity="0.15">7</tspan>
+<tspan x="682.5" y="45" fill="#00ff9c" fill-opacity="0.20">8</tspan>
+<tspan x="682.5" y="60" fill="#00ff9c" fill-opacity="0.25">#</tspan>
+<tspan x="682.5" y="75" fill="#00ff9c" fill-opacity="0.30">+</tspan>
+<tspan x="682.5" y="90" fill="#00ff9c" fill-opacity="0.35">9</tspan>
+<tspan x="682.5" y="105" fill="#00ff9c" fill-opacity="0.40">{</tspan>
+<tspan x="682.5" y="120" fill="#00ff9c" fill-opacity="0.45">4</tspan>
+<tspan x="682.5" y="135" fill="#00ff9c" fill-opacity="0.50">*</tspan>
+<tspan x="682.5" y="150" fill="#00ff9c" fill-opacity="0.55">7</tspan>
+<tspan x="682.5" y="165" fill="#00ff9c" fill-opacity="0.60">$</tspan>
+<tspan x="682.5" y="180" fill="#00ff9c" fill-opacity="0.65">B</tspan>
+<tspan x="682.5" y="195" fill="#00ff9c" fill-opacity="0.70">E</tspan>
+<tspan x="682.5" y="210" fill="#d6ffee" fill-opacity="1.00">=</tspan>
+</text></g>
+<g class="col" style="animation-duration:4.40s;animation-delay:-3.14s"><text>
+<tspan x="697.5" y="0" fill="#00ff9c" fill-opacity="0.06">(</tspan>
+<tspan x="697.5" y="15" fill="#00ff9c" fill-opacity="0.12">A</tspan>
+<tspan x="697.5" y="30" fill="#00ff9c" fill-opacity="0.17">2</tspan>
+<tspan x="697.5" y="45" fill="#00ff9c" fill-opacity="0.23">[</tspan>
+<tspan x="697.5" y="60" fill="#00ff9c" fill-opacity="0.29">)</tspan>
+<tspan x="697.5" y="75" fill="#00ff9c" fill-opacity="0.35">1</tspan>
+<tspan x="697.5" y="90" fill="#00ff9c" fill-opacity="0.40">2</tspan>
+<tspan x="697.5" y="105" fill="#00ff9c" fill-opacity="0.46">$</tspan>
+<tspan x="697.5" y="120" fill="#00ff9c" fill-opacity="0.52">3</tspan>
+<tspan x="697.5" y="135" fill="#00ff9c" fill-opacity="0.58">{</tspan>
+<tspan x="697.5" y="150" fill="#00ff9c" fill-opacity="0.63">]</tspan>
+<tspan x="697.5" y="165" fill="#00ff9c" fill-opacity="0.69">E</tspan>
+<tspan x="697.5" y="180" fill="#d6ffee" fill-opacity="1.00">7</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.88s;animation-delay:-3.79s"><text>
+<tspan x="712.5" y="0" fill="#00ff9c" fill-opacity="0.06">A</tspan>
+<tspan x="712.5" y="15" fill="#00ff9c" fill-opacity="0.12">3</tspan>
+<tspan x="712.5" y="30" fill="#00ff9c" fill-opacity="0.17">*</tspan>
+<tspan x="712.5" y="45" fill="#00ff9c" fill-opacity="0.23">{</tspan>
+<tspan x="712.5" y="60" fill="#00ff9c" fill-opacity="0.29">0</tspan>
+<tspan x="712.5" y="75" fill="#00ff9c" fill-opacity="0.35">}</tspan>
+<tspan x="712.5" y="90" fill="#00ff9c" fill-opacity="0.40">=</tspan>
+<tspan x="712.5" y="105" fill="#00ff9c" fill-opacity="0.46">C</tspan>
+<tspan x="712.5" y="120" fill="#00ff9c" fill-opacity="0.52">1</tspan>
+<tspan x="712.5" y="135" fill="#00ff9c" fill-opacity="0.58">$</tspan>
+<tspan x="712.5" y="150" fill="#00ff9c" fill-opacity="0.63">4</tspan>
+<tspan x="712.5" y="165" fill="#00ff9c" fill-opacity="0.69">:</tspan>
+<tspan x="712.5" y="180" fill="#d6ffee" fill-opacity="1.00">:</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.91s;animation-delay:-1.54s"><text>
+<tspan x="727.5" y="0" fill="#00ff9c" fill-opacity="0.06">3</tspan>
+<tspan x="727.5" y="15" fill="#00ff9c" fill-opacity="0.12">2</tspan>
+<tspan x="727.5" y="30" fill="#00ff9c" fill-opacity="0.17">;</tspan>
+<tspan x="727.5" y="45" fill="#00ff9c" fill-opacity="0.23">)</tspan>
+<tspan x="727.5" y="60" fill="#00ff9c" fill-opacity="0.29">F</tspan>
+<tspan x="727.5" y="75" fill="#00ff9c" fill-opacity="0.35">#</tspan>
+<tspan x="727.5" y="90" fill="#00ff9c" fill-opacity="0.40">6</tspan>
+<tspan x="727.5" y="105" fill="#00ff9c" fill-opacity="0.46">4</tspan>
+<tspan x="727.5" y="120" fill="#00ff9c" fill-opacity="0.52">/</tspan>
+<tspan x="727.5" y="135" fill="#00ff9c" fill-opacity="0.58">]</tspan>
+<tspan x="727.5" y="150" fill="#00ff9c" fill-opacity="0.63">C</tspan>
+<tspan x="727.5" y="165" fill="#00ff9c" fill-opacity="0.69">B</tspan>
+<tspan x="727.5" y="180" fill="#d6ffee" fill-opacity="1.00">#</tspan>
+</text></g>
+<g class="col" style="animation-duration:4.95s;animation-delay:-4.61s"><text>
+<tspan x="742.5" y="0" fill="#00ff9c" fill-opacity="0.08">/</tspan>
+<tspan x="742.5" y="15" fill="#00ff9c" fill-opacity="0.15">B</tspan>
+<tspan x="742.5" y="30" fill="#00ff9c" fill-opacity="0.22">*</tspan>
+<tspan x="742.5" y="45" fill="#00ff9c" fill-opacity="0.30">C</tspan>
+<tspan x="742.5" y="60" fill="#00ff9c" fill-opacity="0.38">C</tspan>
+<tspan x="742.5" y="75" fill="#00ff9c" fill-opacity="0.45">4</tspan>
+<tspan x="742.5" y="90" fill="#00ff9c" fill-opacity="0.52">=</tspan>
+<tspan x="742.5" y="105" fill="#00ff9c" fill-opacity="0.60">#</tspan>
+<tspan x="742.5" y="120" fill="#00ff9c" fill-opacity="0.68">B</tspan>
+<tspan x="742.5" y="135" fill="#d6ffee" fill-opacity="1.00">(</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.52s;animation-delay:-3.26s"><text>
+<tspan x="757.5" y="0" fill="#00ff9c" fill-opacity="0.07">$</tspan>
+<tspan x="757.5" y="15" fill="#00ff9c" fill-opacity="0.14">B</tspan>
+<tspan x="757.5" y="30" fill="#00ff9c" fill-opacity="0.20">{</tspan>
+<tspan x="757.5" y="45" fill="#00ff9c" fill-opacity="0.27">1</tspan>
+<tspan x="757.5" y="60" fill="#00ff9c" fill-opacity="0.34">[</tspan>
+<tspan x="757.5" y="75" fill="#00ff9c" fill-opacity="0.41">[</tspan>
+<tspan x="757.5" y="90" fill="#00ff9c" fill-opacity="0.48">6</tspan>
+<tspan x="757.5" y="105" fill="#00ff9c" fill-opacity="0.55">=</tspan>
+<tspan x="757.5" y="120" fill="#00ff9c" fill-opacity="0.61">5</tspan>
+<tspan x="757.5" y="135" fill="#00ff9c" fill-opacity="0.68">C</tspan>
+<tspan x="757.5" y="150" fill="#d6ffee" fill-opacity="1.00">2</tspan>
+</text></g>
+<g class="col" style="animation-duration:3.69s;animation-delay:-0.69s"><text>
+<tspan x="772.5" y="0" fill="#00ff9c" fill-opacity="0.09">6</tspan>
+<tspan x="772.5" y="15" fill="#00ff9c" fill-opacity="0.19">1</tspan>
+<tspan x="772.5" y="30" fill="#00ff9c" fill-opacity="0.28">F</tspan>
+<tspan x="772.5" y="45" fill="#00ff9c" fill-opacity="0.38">%</tspan>
+<tspan x="772.5" y="60" fill="#00ff9c" fill-opacity="0.47">;</tspan>
+<tspan x="772.5" y="75" fill="#00ff9c" fill-opacity="0.56">F</tspan>
+<tspan x="772.5" y="90" fill="#00ff9c" fill-opacity="0.66">)</tspan>
+<tspan x="772.5" y="105" fill="#d6ffee" fill-opacity="1.00">+</tspan>
+</text></g>
+<g class="col" style="animation-duration:3.50s;animation-delay:-1.65s"><text>
+<tspan x="787.5" y="0" fill="#00ff9c" fill-opacity="0.06">%</tspan>
+<tspan x="787.5" y="15" fill="#00ff9c" fill-opacity="0.12">;</tspan>
+<tspan x="787.5" y="30" fill="#00ff9c" fill-opacity="0.19">]</tspan>
+<tspan x="787.5" y="45" fill="#00ff9c" fill-opacity="0.25">;</tspan>
+<tspan x="787.5" y="60" fill="#00ff9c" fill-opacity="0.31">D</tspan>
+<tspan x="787.5" y="75" fill="#00ff9c" fill-opacity="0.38">A</tspan>
+<tspan x="787.5" y="90" fill="#00ff9c" fill-opacity="0.44">E</tspan>
+<tspan x="787.5" y="105" fill="#00ff9c" fill-opacity="0.50">E</tspan>
+<tspan x="787.5" y="120" fill="#00ff9c" fill-opacity="0.56">3</tspan>
+<tspan x="787.5" y="135" fill="#00ff9c" fill-opacity="0.62">6</tspan>
+<tspan x="787.5" y="150" fill="#00ff9c" fill-opacity="0.69">4</tspan>
+<tspan x="787.5" y="165" fill="#d6ffee" fill-opacity="1.00">(</tspan>
+</text></g>
+<g class="col" style="animation-duration:3.86s;animation-delay:-3.35s"><text>
+<tspan x="802.5" y="0" fill="#00ff9c" fill-opacity="0.08">$</tspan>
+<tspan x="802.5" y="15" fill="#00ff9c" fill-opacity="0.17">%</tspan>
+<tspan x="802.5" y="30" fill="#00ff9c" fill-opacity="0.25">F</tspan>
+<tspan x="802.5" y="45" fill="#00ff9c" fill-opacity="0.33">4</tspan>
+<tspan x="802.5" y="60" fill="#00ff9c" fill-opacity="0.42">}</tspan>
+<tspan x="802.5" y="75" fill="#00ff9c" fill-opacity="0.50">8</tspan>
+<tspan x="802.5" y="90" fill="#00ff9c" fill-opacity="0.58">3</tspan>
+<tspan x="802.5" y="105" fill="#00ff9c" fill-opacity="0.67">8</tspan>
+<tspan x="802.5" y="120" fill="#d6ffee" fill-opacity="1.00">#</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.25s;animation-delay:-4.87s"><text>
+<tspan x="817.5" y="0" fill="#00ff9c" fill-opacity="0.08">1</tspan>
+<tspan x="817.5" y="15" fill="#00ff9c" fill-opacity="0.17">F</tspan>
+<tspan x="817.5" y="30" fill="#00ff9c" fill-opacity="0.25">%</tspan>
+<tspan x="817.5" y="45" fill="#00ff9c" fill-opacity="0.33">1</tspan>
+<tspan x="817.5" y="60" fill="#00ff9c" fill-opacity="0.42">B</tspan>
+<tspan x="817.5" y="75" fill="#00ff9c" fill-opacity="0.50">;</tspan>
+<tspan x="817.5" y="90" fill="#00ff9c" fill-opacity="0.58">+</tspan>
+<tspan x="817.5" y="105" fill="#00ff9c" fill-opacity="0.67">B</tspan>
+<tspan x="817.5" y="120" fill="#d6ffee" fill-opacity="1.00">A</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.94s;animation-delay:-4.68s"><text>
+<tspan x="832.5" y="0" fill="#00ff9c" fill-opacity="0.11">F</tspan>
+<tspan x="832.5" y="15" fill="#00ff9c" fill-opacity="0.21">$</tspan>
+<tspan x="832.5" y="30" fill="#00ff9c" fill-opacity="0.32">:</tspan>
+<tspan x="832.5" y="45" fill="#00ff9c" fill-opacity="0.43">4</tspan>
+<tspan x="832.5" y="60" fill="#00ff9c" fill-opacity="0.54">3</tspan>
+<tspan x="832.5" y="75" fill="#00ff9c" fill-opacity="0.64">*</tspan>
+<tspan x="832.5" y="90" fill="#d6ffee" fill-opacity="1.00">)</tspan>
+</text></g>
+<g class="col" style="animation-duration:4.96s;animation-delay:-3.34s"><text>
+<tspan x="847.5" y="0" fill="#00ff9c" fill-opacity="0.06">=</tspan>
+<tspan x="847.5" y="15" fill="#00ff9c" fill-opacity="0.12">5</tspan>
+<tspan x="847.5" y="30" fill="#00ff9c" fill-opacity="0.19">1</tspan>
+<tspan x="847.5" y="45" fill="#00ff9c" fill-opacity="0.25">6</tspan>
+<tspan x="847.5" y="60" fill="#00ff9c" fill-opacity="0.31">/</tspan>
+<tspan x="847.5" y="75" fill="#00ff9c" fill-opacity="0.38">0</tspan>
+<tspan x="847.5" y="90" fill="#00ff9c" fill-opacity="0.44">[</tspan>
+<tspan x="847.5" y="105" fill="#00ff9c" fill-opacity="0.50">7</tspan>
+<tspan x="847.5" y="120" fill="#00ff9c" fill-opacity="0.56">)</tspan>
+<tspan x="847.5" y="135" fill="#00ff9c" fill-opacity="0.62">2</tspan>
+<tspan x="847.5" y="150" fill="#00ff9c" fill-opacity="0.69">]</tspan>
+<tspan x="847.5" y="165" fill="#d6ffee" fill-opacity="1.00">C</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.90s;animation-delay:-1.27s"><text>
+<tspan x="862.5" y="0" fill="#00ff9c" fill-opacity="0.06">B</tspan>
+<tspan x="862.5" y="15" fill="#00ff9c" fill-opacity="0.12">9</tspan>
+<tspan x="862.5" y="30" fill="#00ff9c" fill-opacity="0.19">2</tspan>
+<tspan x="862.5" y="45" fill="#00ff9c" fill-opacity="0.25">=</tspan>
+<tspan x="862.5" y="60" fill="#00ff9c" fill-opacity="0.31">/</tspan>
+<tspan x="862.5" y="75" fill="#00ff9c" fill-opacity="0.38">E</tspan>
+<tspan x="862.5" y="90" fill="#00ff9c" fill-opacity="0.44">5</tspan>
+<tspan x="862.5" y="105" fill="#00ff9c" fill-opacity="0.50">+</tspan>
+<tspan x="862.5" y="120" fill="#00ff9c" fill-opacity="0.56">7</tspan>
+<tspan x="862.5" y="135" fill="#00ff9c" fill-opacity="0.62">5</tspan>
+<tspan x="862.5" y="150" fill="#00ff9c" fill-opacity="0.69">)</tspan>
+<tspan x="862.5" y="165" fill="#d6ffee" fill-opacity="1.00">6</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.73s;animation-delay:-2.90s"><text>
+<tspan x="877.5" y="0" fill="#00ff9c" fill-opacity="0.11">8</tspan>
+<tspan x="877.5" y="15" fill="#00ff9c" fill-opacity="0.21">0</tspan>
+<tspan x="877.5" y="30" fill="#00ff9c" fill-opacity="0.32">E</tspan>
+<tspan x="877.5" y="45" fill="#00ff9c" fill-opacity="0.43">1</tspan>
+<tspan x="877.5" y="60" fill="#00ff9c" fill-opacity="0.54">E</tspan>
+<tspan x="877.5" y="75" fill="#00ff9c" fill-opacity="0.64">+</tspan>
+<tspan x="877.5" y="90" fill="#d6ffee" fill-opacity="1.00">)</tspan>
+</text></g>
+<g class="col" style="animation-duration:4.35s;animation-delay:-0.14s"><text>
+<tspan x="892.5" y="0" fill="#00ff9c" fill-opacity="0.06">#</tspan>
+<tspan x="892.5" y="15" fill="#00ff9c" fill-opacity="0.12">#</tspan>
+<tspan x="892.5" y="30" fill="#00ff9c" fill-opacity="0.17">{</tspan>
+<tspan x="892.5" y="45" fill="#00ff9c" fill-opacity="0.23">[</tspan>
+<tspan x="892.5" y="60" fill="#00ff9c" fill-opacity="0.29">B</tspan>
+<tspan x="892.5" y="75" fill="#00ff9c" fill-opacity="0.35">:</tspan>
+<tspan x="892.5" y="90" fill="#00ff9c" fill-opacity="0.40">3</tspan>
+<tspan x="892.5" y="105" fill="#00ff9c" fill-opacity="0.46">/</tspan>
+<tspan x="892.5" y="120" fill="#00ff9c" fill-opacity="0.52">2</tspan>
+<tspan x="892.5" y="135" fill="#00ff9c" fill-opacity="0.58">7</tspan>
+<tspan x="892.5" y="150" fill="#00ff9c" fill-opacity="0.63">%</tspan>
+<tspan x="892.5" y="165" fill="#00ff9c" fill-opacity="0.69">*</tspan>
+<tspan x="892.5" y="180" fill="#d6ffee" fill-opacity="1.00">F</tspan>
+</text></g>
+<rect width="900" height="150" fill="url(#fade)"/>
+<rect x="235.0" y="39.0" width="430" height="72" rx="6" fill="#05060a" fill-opacity=".78" stroke="#00ff9c" stroke-opacity=".45"/>
+<text class="title" x="450.0" y="87.0" filter="url(#glow)">Mr1Err0r1<tspan class="cur">_</tspan></text>
+</svg>
