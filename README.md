@@ -2,53 +2,31 @@
 
 <img src="assets/matrix.svg" alt="Mr1Err0r1" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=00FF9C&center=true&vCenter=true&width=720&height=40&lines=Developer+%C2%B7+Builder+%C2%B7+CS+Student;Rust+%C2%B7+Python+%C2%B7+Java+%C2%B7+C%2B%2B;Game+Dev+%C2%B7+Systems+%C2%B7+Networking" alt="Developer · Builder · CS Student">
-
 <br><br>
 
-<img src="assets/blackhole.svg" alt="ASCII black hole" width="720">
+<img src="assets/neofetch.svg" alt="Mr1Err0r1 – developer, builder, CS student" width="100%">
 
-<!-- Alternative: replace the line above with your GIF
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGh6dWNpNGdqejNlMjdsNW4zM3pvMmZlOGR4dGJyMWRiemk5aHIxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif" alt="Black hole" width="480">
--->
+<!-- ASCII PORTRAIT: your own animation goes into the card (see scripts/frames.py). A static portrait can be pasted here in a ```text block. -->
 
 </div>
 
-<!-- ASCII PORTRAIT: paste it here inside a ```text block, e.g. centered under the black hole -->
-
-## > whoami
-
-```text
-mr1err0r1@github:~$ whoami
-Mr1Err0r1 — developer · builder · computer science student
-
-mr1err0r1@github:~$ cat focus.txt
-game development · systems programming · networking
-
-mr1err0r1@github:~$ cat stack.txt
-primary      Rust, Python
-also         Java, C++, C#
-environment  Linux, Git, terminal-first workflow
-
-mr1err0r1@github:~$ cat now.txt
-building     rush_protocol (Godot 4.7)
-deepening    Rust · Python · Java
-```
-
-## > stack
+## Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=rust,python,java,cpp,cs,godot,linux,git&theme=dark" alt="Tech stack">
 </p>
 
-## > projects
+## Projects
 
-| Project | Description | Tech |
-| :-- | :-- | :-- |
-| [**rush_protocol**](https://github.com/Mr1Err0r1/rush_protocol) | Game project | Godot 4.7 |
-| [**terminal-heart**](https://github.com/Mr1Err0r1/terminal-heart) | Self-contained retro terminal experience for the browser: animations, mini-games and a lo-fi soundtrack | Web |
+<!-- Updated automatically by .github/workflows/update-profile.yml. Edit scripts/update_profile.py instead of this table. -->
+<!--START_SECTION:projects-->
+| Project | Description | Language | Updated |
+| :-- | :-- | :-- | :-- |
+| [**rush_protocol**](https://github.com/Mr1Err0r1/rush_protocol) | Game project | Godot 4.7 | — |
+| [**terminal-heart**](https://github.com/Mr1Err0r1/terminal-heart) | Self-contained retro terminal experience for the browser: animations, mini-games and a lo-fi soundtrack | Web | — |
+<!--END_SECTION:projects-->
 
-## > activity
+## Activity
 
 <div align="center">
 
@@ -65,15 +43,5 @@ deepening    Rust · Python · Java
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr1Err0r1/Mr1Err0r1/output/github-snake.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Mr1Err0r1/Mr1Err0r1/output/github-snake.svg">
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-$ git commit -m "keep building"
-```
 
 </div>
