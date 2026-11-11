@@ -1010,11 +1010,11 @@
 <text class="k" x="384.8" y="229">Now</text>
 <text class="v" x="474.8" y="229">rush_protocol · GDScript</text>
 <text class="k" x="384.8" y="248">Last push</text>
-<text class="v" x="474.8" y="248">2026-11-09</text>
+<text class="v" x="474.8" y="248">2026-11-11</text>
 <text class="k" x="384.8" y="277">Languages</text>
-<text class="v" x="404.8" y="296">GDScript</text><rect x="474.8" y="287" width="230" height="9" rx="4.5" fill="#21262d"/><rect x="474.8" y="287" width="115" height="9" rx="4.5" fill="#4f8fb8"/><text class="d" x="714.8" y="296">50.1%</text>
-<text class="v" x="404.8" y="315">Rust</text><rect x="474.8" y="306" width="230" height="9" rx="4.5" fill="#21262d"/><rect x="474.8" y="306" width="82" height="9" rx="4.5" fill="#dea584"/><text class="d" x="714.8" y="315">35.9%</text>
-<text class="v" x="404.8" y="334">Python</text><rect x="474.8" y="325" width="230" height="9" rx="4.5" fill="#21262d"/><rect x="474.8" y="325" width="29" height="9" rx="4.5" fill="#3572A5"/><text class="d" x="714.8" y="334">12.5%</text>
+<text class="v" x="404.8" y="296">GDScript</text><rect x="474.8" y="287" width="230" height="9" rx="4.5" fill="#21262d"/><rect x="474.8" y="287" width="118" height="9" rx="4.5" fill="#4f8fb8"/><text class="d" x="714.8" y="296">51.1%</text>
+<text class="v" x="404.8" y="315">Rust</text><rect x="474.8" y="306" width="230" height="9" rx="4.5" fill="#21262d"/><rect x="474.8" y="306" width="80" height="9" rx="4.5" fill="#dea584"/><text class="d" x="714.8" y="315">35.0%</text>
+<text class="v" x="404.8" y="334">Python</text><rect x="474.8" y="325" width="230" height="9" rx="4.5" fill="#21262d"/><rect x="474.8" y="325" width="28" height="9" rx="4.5" fill="#3572A5"/><text class="d" x="714.8" y="334">12.2%</text>
 <text class="v" x="404.8" y="353">HTML</text><rect x="474.8" y="344" width="230" height="9" rx="4.5" fill="#21262d"/><rect x="474.8" y="344" width="6" height="9" rx="4.5" fill="#e34c26"/><text class="d" x="714.8" y="353">1.5%</text>
 <rect x="384.8" y="374" width="26" height="14" fill="#484f58"/>
 <rect x="410.8" y="374" width="26" height="14" fill="#ff5555"/>
